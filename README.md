@@ -1,4 +1,4 @@
-# node_js_calculator
+# node-js-calculator
 GUI JavaScript Calculator with Helmet, and Winston/Morgan
 
 This simple calculator web application allows you to perform basic calculations. Here are some recent revisions and fixes:
