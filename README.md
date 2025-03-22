@@ -74,9 +74,9 @@ node-js-calculator/
 ```
 Planned Enhancements
 
-    History Feature: Implement a history log of previous calculations.
-    Scientific Mode: Extend functionality with additional mathematical operations.
-    Improved UI: Refine the interface with better responsiveness and animations.
+History Feature: Implement a history log of previous calculations.
+Scientific Mode: Extend functionality with additional mathematical operations.
+Improved UI: Refine the interface with better responsiveness and animations.
 
 ## Contributing
 
